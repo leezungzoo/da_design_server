@@ -29,6 +29,9 @@ pip3 install -r requirements.txt
 
 ---
 
+export PYTHONPATH=$PYTHONPATH:/home/u1000/Ctrl+d
+~$ source ~/.bashrc
+
 ### How to use
 
 TODO
